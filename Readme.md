@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Аркадий Ординьян](https://up.htmlacademy.ru/htmlcss/33/user/1985589).
-* Наставник: `Магомед Кандаев`.
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev)
 
 ---
 
